@@ -13,7 +13,6 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midry3125)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midry3125)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who is Midry?
 I'm japanese high school student.  
@@ -24,8 +23,10 @@ I often develop software with:
 I'm learning:
 - C#
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midry3125)](https://github.com/anuraghazra/github-readme-stats)
+
 ## What does Midry like?
-- NetWork
+- Programming
 - Math
 - Manga
 - Anime
