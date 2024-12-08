@@ -19,8 +19,6 @@ I'm japanese high school student.
 I often develop software with:
 - Python
 - Golang
-
-I'm learning:
 - C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midry3125)](https://github.com/anuraghazra/github-readme-stats)
