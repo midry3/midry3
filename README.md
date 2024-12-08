@@ -30,6 +30,8 @@ I'm learning:
 - Math
 - Manga
 - Anime
+- Novel
+- Game
 - Sleep( ˘ω˘ )
 
 ## Trophys
