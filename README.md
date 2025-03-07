@@ -23,7 +23,7 @@ I often develop software with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midry3125)](https://github.com/anuraghazra/github-readme-stats)
 
-## What does Midry like?
+## About me
 - Programming
 - Math
 - Manga
