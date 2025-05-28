@@ -15,7 +15,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midry3125)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who is Midry?
-I'm japanese high school student.  
+I'm japanese university student.  
 I often develop software with:
 - Python
 - Golang
