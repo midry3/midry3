@@ -32,5 +32,11 @@ I often develop software with:
 - Game
 - Sleep( ˘ω˘ )
 
+And I love all japanese subcultures.
+ 
+## My trend
+Cocoa is nice.
+These days I often throw cocoa powder to hot water🫠
+ 
 ## Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=midry3125)](https://github.com/ryo-ma/github-profile-trophy)
