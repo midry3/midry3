@@ -21,7 +21,7 @@ I often develop software with:
 - Golang
 - C#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midry3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midry3&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 - Programming
