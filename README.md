@@ -4,8 +4,8 @@
   <a href="https://github.com/midry3/midry3/">
     <img src="https://komarev.com/ghpvc/?username=midry3" alt="midry3" />
   </a>
-  <a href="https://x.com/midry3">
-    <img height="20" src="https://img.shields.io/twitter/follow/midry3?label=Twitter&logo=twitter&style=flat" />
+  <a href="https://x.com/TMidry5">
+    <img height="20" src="https://img.shields.io/twitter/follow/TMidry5?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/midry3">
     <img height="20" src="https://img.shields.io/github/followers/midry3?label=follow&logo=github&style=flat" />
