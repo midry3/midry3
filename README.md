@@ -35,8 +35,7 @@ I often develop software with:
 And I love all japanese subcultures.
  
 ## My trend
-Cocoa is nice.
-These days I often throw cocoa powder to hot water🫠
+I mix fruits and milk to generate a smoothie🫨.
 
 ## Projects
 ### 💎[EmeralEngine](https://github.com/Emeral-Engine/EmeralEngine)
