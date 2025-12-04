@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=cs,go,python)](https://skillicons.dev)
 
 <p align="left">
   <a href="https://github.com/midry3/midry3/">
@@ -12,38 +13,29 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midry3)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Who is Midry?
-I'm japanese university student.  
-I often develop software with:
-- Python
-- Golang
-- C#
+I'm a japanese university student.  
+I often develop software or backend system.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midry3&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-## About me
+
+## Favorites
 - Programming
 - Math
 - Manga
-- Anime
+- Travel
 - Novel
 - Game
 - Sleep( ˘ω˘ )
 
 And I love all japanese subcultures.
  
-## My trend
-I mix fruits and milk to generate a smoothie🫨.
+## Trend
+Hot spring is nice👍
 
 ## Projects
 ### 💎[EmeralEngine](https://github.com/Emeral-Engine/EmeralEngine)
 ![](https://img.shields.io/github/stars/Emeral-Engine/EmeralEngine)
 ![](https://img.shields.io/github/downloads/Emeral-Engine/EmeralEngine/total)
 
-The novel game engine for windows.
-
- 
-## Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=midry3)](https://github.com/ryo-ma/github-profile-trophy)
+The novel game engine/script editor for windows.
