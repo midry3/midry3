@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=cs,go,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,go,python,godot)](https://skillicons.dev)
 
 <p align="left">
   <a href="https://github.com/midry3/midry3/">
@@ -31,7 +31,7 @@ I often develop software or backend system.
 And I love all japanese subcultures.
  
 ## Trend
-Hot spring is nice👍
+Onsen is nice👍
 
 ## Projects
 ### 💎[EmeralEngine](https://github.com/Emeral-Engine/EmeralEngine)
