@@ -2,9 +2,6 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,go,python,godot)](https://skillicons.dev)
 
 <p align="left">
-  <a href="https://github.com/midry3/midry3/">
-    <img src="midry3" alt="midry3" />
-  </a>
   <a href="https://x.com/Tose_Midry">
     <img height="20" src="https://img.shields.io/twitter/follow/Tose_Midry?label=Twitter&logo=twitter&style=flat" />
   </a>
