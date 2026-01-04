@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/midry3/midry3/">
-    <img src="https://komarev.com/ghpvc/?username=midry3" alt="midry3" />
+    <img src="https://komarev.com/ghpvc/?username=Tose_Midry" alt="midry3" />
   </a>
   <a href="https://x.com/TMidry5">
     <img height="20" src="https://img.shields.io/twitter/follow/TMidry5?label=Twitter&logo=twitter&style=flat" />
